@@ -1,5 +1,0 @@
-This is the fourth file added to the Git repository.
-
-Now let's make some changes to the fourth file to see what happens.
-
-
