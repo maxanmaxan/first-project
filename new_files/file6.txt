@@ -1,1 +1,3 @@
 It is a new file in the folder
+
+File6.txt was just changed.
