@@ -1,1 +1,2 @@
 Hello, Git
+some new code 3.05.2022
